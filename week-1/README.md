@@ -1,5 +1,4 @@
 # Week 1 – Cloud Engineering Foundations ☁️
-![Cloud Learning Journal](./images/vscode-week1.png)
 
 ## Overview
 This week i focused on building a strong foundation in **cloud engineering**.  
