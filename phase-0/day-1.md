@@ -1,10 +1,10 @@
-# í¼Ÿ Cloud Learning Log â€” Phase 0
+# ï¿½ï¿½ï¿½ Cloud Learning Log â€” Phase 0
 
 Welcome to the start of my cloud engineering journey! This is my **Phase 0**, where Iâ€™m exploring cloud concepts, experimenting with tools, and setting the foundation for hands-on learning. My goal is to document my progress, reflect on challenges, and stay consistent.
 
 ---
 
-## íº€ My Learning Goals
+## ï¿½ï¿½ï¿½ My Learning Goals
 
 For Phase 0, my focus is to:
 
@@ -35,7 +35,7 @@ Hereâ€™s a list of the roles Iâ€™m most curious about:
 
 ---
 
-## í»  List of Cloud Providers
+## ï¿½ï¿½ï¿½ List of Cloud Providers
 
 - **AWS (Amazon Web Services):** The market leader with the widest range of services. Great for learning cloud fundamentals and real-world applications.  
 - **GCP (Google Cloud Platform):** Known for strong data and AI/ML capabilities. Great for analytics focused projects.  
@@ -45,7 +45,7 @@ Hereâ€™s a list of the roles Iâ€™m most curious about:
 
 ---
 
-## í²¡ My Learning Approach
+## ï¿½ï¿½ï¿½ My Learning Approach
 
 - **Applied Skills First:** Hands-on practice is my priority.  
 - **Terminal-First Mindset:** I aim to use CLI tools, scripting, and Infrastructure as Code to interact with cloud services rather than relying solely on web consoles.  
@@ -55,4 +55,4 @@ Hereâ€™s a list of the roles Iâ€™m most curious about:
 
 ---
 
-*End of Phase 0 setup,  ready for phase 1 where i will dive into hands-on cloud experiments!*
+*End of Phase 0 setup,  ready for phase 1 where i will begin to dive into hands-on cloud experiments!*
